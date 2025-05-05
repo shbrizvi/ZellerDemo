@@ -1,4 +1,5 @@
 🚀 Project Setup Guide
+
 📦 Important Dependencies
 
     Apollo Client – For GraphQL API integration
